@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='leo',  # Your package name
+    name='leoambrose',  # Your package name
     version='0.1.0',  # Version number (we will update this as needed)
     packages=find_packages(where='src'),  # Assuming your code is inside the 'src' folder
     package_dir={'': 'src'},
